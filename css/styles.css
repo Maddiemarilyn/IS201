@@ -1,0 +1,26 @@
+p{
+  font-weight:bold;
+  font-size: 28px;
+}
+
+#top{
+  text-decoration: underline;
+}
+
+body{
+  background-color: whitesmoke;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color: darkgray;
+  text-align: center;
+  border: 5px solid black;
+  margin: 50px;
+  padding: 50px;
+}
+
+.centered-list{
+  padding-left: 0;
+  list-style-position: outside;
+  margin: 0 auto;
+  display: table;
+  text-align: left;
+}

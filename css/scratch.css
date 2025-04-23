@@ -1,0 +1,39 @@
+/* Style 1: Set font and background for the entire page */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+    background-color: #fff0f5; /* light pink background */
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Style 2: Header section styling */
+  .header {
+    background-color: #ffb6c1;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 2em;
+  }
+  
+  /* Style 3: Content block styling */
+  .content {
+    padding: 20px;
+    background-color: #ffe4e1;
+    margin: 20px;
+    border-radius: 8px;
+    font-family: 'Georgia', serif;
+    color: #444;
+  }
+  
+  /* Style 4: Footer styling */
+  .footer {
+    background-color: #ff69b4;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+  }
+  
